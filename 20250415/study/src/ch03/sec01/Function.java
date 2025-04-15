@@ -1,4 +1,4 @@
-package ch01.sec01;
+package ch03.sec01;
 
 public class Function {
     public static void main(String[] args) {
