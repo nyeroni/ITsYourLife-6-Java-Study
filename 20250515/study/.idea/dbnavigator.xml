@@ -2,7 +2,11 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
+<<<<<<< HEAD
     <value-preview-text-wrapping value="true" />
+=======
+    <value-preview-text-wrapping value="false" />
+>>>>>>> f4d5eea (feat: 20250522 기본 문제 제출)
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
@@ -16,7 +20,15 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
+<<<<<<< HEAD
   <component name="DBNavigator.Project.FileConnectionMappingManager">
+=======
+  <component name="DBNavigator.Project.ExecutionManager">
+    <retain-sticky-names value="false" />
+  </component>
+  <component name="DBNavigator.Project.FileConnectionMappingManager">
+    <mapping file-url="file://$PROJECT_DIR$/sql/심화/심화.sql" connection-id="f74036e9-4ba3-49c6-b06c-08a66004a844" session-id="MAIN" current-schema="employees" />
+>>>>>>> f4d5eea (feat: 20250522 기본 문제 제출)
     <mapping file-url="file://$APPLICATION_CONFIG_DIR$/consoles/db/cc9852b0-6e2e-4ac1-9551-0b0f042d0e2a/console.sql" connection-id="f74036e9-4ba3-49c6-b06c-08a66004a844" session-id="MAIN" current-schema="mysql" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
