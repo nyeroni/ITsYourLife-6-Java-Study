@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a044ae7-832c-4038-9f40-9cae13926618" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250421/study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250421/study/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250423/study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250423/study/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250430/study/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250430/study/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250430/study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250430/study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250430/study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250430/study/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nyeroni&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nyeroni/ITsYourLife-6-Java-Study.git&quot;,
+    &quot;accountId&quot;: &quot;f9b81e7e-a4b7-4a6b-9bb3-6ded79c085a2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2wnei28fY9irxgPkcbNkRfL96SX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.study [:ch17.question.q1.MovieAnalysis.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec03.StreamPipeLineExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec04.exam01.StreamExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec04.exam02.StreamExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec04.exam03.StreamExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec05.FilteringExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec06.exam01.MapExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec06.exam02.MapExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec06.exam03.FlatMappingExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec07.exam02.SortingExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec10.AggregateExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.study [:ch17.sec10.OptionalExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="애플리케이션.MovieAnalysis">
+    <configuration name="FlatMappingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam03.FlatMappingExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17.sec06.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam01.MapExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17.sec06.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.qustion.q1.MovieAnalysis" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17.qustion.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec10.OptionalExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17.sec10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch17.sec06.exam02.MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam02.MapExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17.sec06.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.MovieAnalysis" />
+        <item itemvalue="애플리케이션.FlatMappingExample" />
+        <item itemvalue="애플리케이션.ch17.sec06.exam02.MapExample" />
+        <item itemvalue="애플리케이션.MapExample" />
+        <item itemvalue="애플리케이션.OptionalExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1a044ae7-832c-4038-9f40-9cae13926618" name="변경" comment="" />
+      <created>1746681889066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746681889066</updated>
+      <workItem from="1746681890294" duration="4276000" />
+      <workItem from="1746687945764" duration="22000" />
+      <workItem from="1746687970738" duration="5510000" />
+      <workItem from="1746854988411" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

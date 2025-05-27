@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7daa0e48-abff-4f6e-9d3a-d2eda93ae24a" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250421/study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250421/study/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250421/study/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20250423/study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250423/study/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="study" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nyeroni"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nyeroni/ITsYourLife-6-Java-Study.git",
+    "accountId": "f9b81e7e-a4b7-4a6b-9bb3-6ded79c085a2"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2wRC6hZdclGmAw5Y7EP25akcTZP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.study [:ch15.sec03.exam01.HashSetExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec03.exam02.HashSetExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec03.exam03.HashSetExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec04.exam01.HashMapExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec05.exam03.ComparableExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec05.exam04.ComparatorExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec05.exam04.ComparatorExample2.main()].executor": "Run",
+    "Gradle.study [:ch15.sec06.exam01.StackExample.main()].executor": "Run",
+    "Gradle.study [:ch15.sec06.exam02.QueueExample.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.ComparatorExample2">
+    <configuration name="ComparableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec05.exam03.ComparableExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15.sec05.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec05.exam04.ComparatorExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15.sec05.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec05.exam04.ComparatorExample2" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15.sec05.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch15.sec03.exam02.HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec03.exam02.HashSetExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15.sec03.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch15.sec03.exam03.HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec03.exam03.HashSetExample" />
+      <module name="study.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15.sec03.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.ComparatorExample2" />
+        <item itemvalue="애플리케이션.ComparatorExample" />
+        <item itemvalue="애플리케이션.ComparableExample" />
+        <item itemvalue="애플리케이션.ch15.sec03.exam03.HashSetExample" />
+        <item itemvalue="애플리케이션.ch15.sec03.exam02.HashSetExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7daa0e48-abff-4f6e-9d3a-d2eda93ae24a" name="변경" comment="" />
+      <created>1745994826570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745994826570</updated>
+      <workItem from="1745994828624" duration="4312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15/sec03/exam02/HashSetExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15/sec05/exam03/ComparableExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15/sec05/exam03/ComparableExample.java</url>
+          <line>5</line>
+          <properties class="ch15.sec05.exam03.ComparableExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
