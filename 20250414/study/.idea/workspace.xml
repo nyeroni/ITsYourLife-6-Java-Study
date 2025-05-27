@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b83773a2-c93f-4dc5-99e5-f6790a8d07f7" name="Changes" comment="" />
+    <list default="true" id="ddc79fcd-aaf9-49e9-aeb4-4dd5862fac25" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../20250527/java_ex/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20250527/java_ex/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -26,9 +33,10 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 7
 }]]></component>
-  <component name="ProjectId" id="2vkwIBdXmOgVbipfeYR1tX55zOr" />
+  <component name="ProjectId" id="2xffZo0OzftkbX9gRz9at8vaKIn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
@@ -39,19 +47,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,15 +59,15 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b83773a2-c93f-4dc5-99e5-f6790a8d07f7" name="Changes" comment="" />
-      <created>1744702297715</created>
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="ddc79fcd-aaf9-49e9-aeb4-4dd5862fac25" name="변경" comment="" />
+      <created>1748334107741</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744702297715</updated>
-      <workItem from="1744702298941" duration="424000" />
+      <updated>1748334107741</updated>
+      <workItem from="1748334109280" duration="206000" />
     </task>
     <servers />
   </component>
