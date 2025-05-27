@@ -19,9 +19,12 @@ public class Database {
     static MongoDatabase database;
 
     static {
+        CodecProvider pojoCodecProvider = PojoCodecProvider.builder().automatic(true).build();
+        CodecRegistry pojoCodecRegistry = fromRegistries(getDefaultCodecRegistry(), fromProviders(pojoCodecProvider));
+
         ConnectionString connectionString = new ConnectionString("mongodb://127.0.0.1:27017");
         client = MongoClients.create(connectionString);
-        database = client.getDatabase("todo_db");
+        database = client.getDatabase("todo_db").withCodecRegistry(pojoCodecRegistry);
     }
 
     public static void close() {
